@@ -40,6 +40,8 @@ public class ContadorDeFelicidad {
 		else
 			System.out.println("neutro");
 
+		
+		scan.close();
 	}
 
 }
